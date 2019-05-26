@@ -6,3 +6,5 @@ libs
 .project
 dbdriver
 target/
+reports/
+test-output/
